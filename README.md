@@ -7,7 +7,7 @@
 ## 📌 Índice
 
 - [Objetivo](#objetivo)
-- [Vídeo](#video)
+- [Vídeo](#vídeo)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura de pastas](#estrutura-de-pastas)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -94,8 +94,9 @@ my-jhipster-app/
 
 <p align="justify"> O diagrama do modelo foi definido utilizando a ferramenta JHipster Domain Language (JDL), que descreve as entidades, seus atributos e os relacionamentos entre elas.
 </p>
+
 <p align="center">
-  <img src="webpack/jdl.png" alt="Imagem | jdl" width="40%">
+  <img src="webpack/jdl.png" alt="Imagem | jdl" width="200px">
 </p>
 
 ## Tecnologias Utilizadas
@@ -110,9 +111,7 @@ my-jhipster-app/
 
 <p align="center"> <img src="webpack/arquitetura.png" alt="Imagem | arquitetura"> </p>
 
-![Imagem|arquitetura](webpack/arquitetura.png)
-
 ## Autor
 
-Pâmela Aliny Cleto Pavan
-e-mail: pamelaaliny@gmail.com
+<p>Pâmela Aliny Cleto Pavan</p>
+e-mail: pamelaaliny@gmail.com 
