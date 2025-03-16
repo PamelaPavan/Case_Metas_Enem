@@ -3,7 +3,7 @@
     @if (aluno(); as alunoRef) {
       <div>
         <h2 data-cy="alunoDetailsHeading">
-          <span jhiTranslate="servApp.aluno.detail.title">Aluno</span>
+          <span>Aluno</span>
         </h2>
         <hr />
 
@@ -11,11 +11,11 @@
         <jhi-alert></jhi-alert>
 
         <dl class="row-md jh-entity-details">
-          <dt><span jhiTranslate="global.field.id">Código: </span></dt>
+          <dt><span>Código: </span></dt>
           <dd>
             <span>{{ alunoRef.id }}</span>
           </dd>
-          <dt><span jhiTranslate="servApp.aluno.nome">Nome: </span></dt>
+          <dt><span>Nome: </span></dt>
           <dd>
             <span>{{ alunoRef.nome }}</span>
           </dd>
