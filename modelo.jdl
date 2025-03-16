@@ -1,0 +1,23 @@
+enum AreaDoEnem {
+  CIENCIAS_NATUREZA,
+  CIENCIAS_HUMANAS,
+  CODIGOS,
+  LINGUAGENS,
+  MATEMATICA
+}
+
+entity Meta {
+  valor Integer required
+  area AreaDoEnem required
+}
+
+entity Aluno {
+  nome String required
+}
+
+relationship OneToMany {
+  Aluno{metas} to Meta{aluno}
+}
+
+paginate Meta with pagination
+paginate Aluno with pagination

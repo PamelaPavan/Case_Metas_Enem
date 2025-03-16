@@ -1,0 +1,12 @@
+{
+  "psApp": {
+    "AreaDoEnem": {
+      "null": "",
+      "CIENCIAS_NATUREZA": "CIENCIAS_NATUREZA",
+      "CIENCIAS_HUMANAS": "CIENCIAS_HUMANAS",
+      "CODIGOS": "CODIGOS",
+      "LINGUAGENS": "LINGUAGENS",
+      "MATEMATICA": "MATEMATICA"
+    }
+  }
+}
