@@ -94,7 +94,9 @@ my-jhipster-app/
 
 <p align="justify"> O diagrama do modelo foi definido utilizando a ferramenta JHipster Domain Language (JDL), que descreve as entidades, seus atributos e os relacionamentos entre elas.
 </p>
-<p align="center"> <img src="webpack/jdl.png" alt="Imagem | jdl" width="70%"> </p>
+<p align="center">
+  <img src="webpack/jdl.png" alt="Imagem | jdl" width="40%">
+</p>
 
 ## Tecnologias Utilizadas
 
