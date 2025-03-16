@@ -1,5 +1,8 @@
-<h1>Case - Cadastro de Metas para ENEM</h1>
-![Imagem|jhipster](webpack/jhipster.png)
+<h1 align="center">Case - Cadastro de Metas para ENEM</h1>
+
+<p align="center">
+  <img src="webpack/jhipster.png" alt="Imagem | jhipster">
+</p>
 
 ## 📌 Índice
 
@@ -14,11 +17,7 @@
 
 ## Objetivo
 
-Criar uma aplicação completa do zero utilizando a ferramenta JHipster para o cadastro de metas dos alunos.
-Um aluno possui metas de notas nas 4 áreas do ENEM (linguagens, códigos e suas tecnologias; ciências humanas
-e suas tecnologias; ciências da natureza e suas tecnologias; e matemática e suas tecnologias).
-É necessário apenas o acesso de administrador (gerado automaticamente), e o próprio administrador cadastrar
-um aluno e em seguida cadastrar a meta de nota desse aluno.
+<p align="justify"> Criar uma aplicação completa do zero utilizando a ferramenta <strong>JHipster</strong> para o cadastro de metas dos alunos. Um aluno possui metas de notas nas 4 áreas do ENEM: linguagens, códigos e suas tecnologias; ciências humanas e suas tecnologias; ciências da natureza e suas tecnologias; e matemática e suas tecnologias. É necessário apenas o acesso de administrador (gerado automaticamente), e o próprio administrador cadastrar um aluno e, em seguida, cadastrar a meta de nota desse aluno. </p>
 
 ## Vídeo
 
@@ -26,14 +25,11 @@ um aluno e em seguida cadastrar a meta de nota desse aluno.
 
 ## Funcionalidades
 
-**1. Cadastro de Alunos:**  
-Permitir que o administrador cadastre alunos no sistema, armazenando informações básicas como o nome.
+<p align="justify"> <strong>1. Cadastro de Alunos:</strong> Permitir que o administrador cadastre alunos no sistema, armazenando informações básicas como o nome. </p>
 
-**2. Cadastro de Metas:**  
-Gerenciar metas de notas relacionadas às 4 áreas do ENEM, vinculando-as a cada aluno cadastrado.
+<p align="justify"> <strong>2. Cadastro de Metas:</strong> Gerenciar metas de notas relacionadas às 4 áreas do ENEM, vinculando-as a cada aluno cadastrado. </p>
 
-**3. Gestão de Usuários:**  
-O sistema é restrito ao uso de um administrador, com credenciais padrão pré-definidas (admin/admin) geradas automaticamente.
+<p align="justify"> <strong>3. Gestão de Usuários:</strong> O sistema é restrito ao uso de um administrador, com credenciais padrão pré-definidas (admin/admin) geradas automaticamente. </p>
 
 Exemplo de Uso Avaliado
 
@@ -41,7 +37,7 @@ Exemplo de Uso Avaliado
 2. Cadastrar um aluno chamado **Lucas**.
 3. Criar uma meta com o valor de **800 pontos** para o aluno **Lucas**.
 
-![Imagem|funcionalidade](webpack/funcionalidade.png)
+<p align="center"> <img src="webpack/funcionalidade.png" alt="Imagem | funcionalidade"> </p>
 
 ## Estrutura de pastas
 
@@ -96,7 +92,9 @@ my-jhipster-app/
 
 ## Base de Dados
 
-![Imagem|jdl](webpack/jdl.png)
+<p align="justify"> O diagrama do modelo foi definido utilizando a ferramenta JHipster Domain Language (JDL), que descreve as entidades, seus atributos e os relacionamentos entre elas.
+</p>
+<p align="center"> <img src="webpack/jdl.png" alt="Imagem | jdl" width="70%"> </p>
 
 ## Tecnologias Utilizadas
 
@@ -106,11 +104,9 @@ my-jhipster-app/
 
 ## Arquitetura do Projeto
 
-Projeto JHipster utilizando arquitetura monolítica, ou seja, todos os componentes da aplicação estão interconectados e executados juntos. Sendo que:
+<p align="justify"> Este projeto JHipster utiliza arquitetura monolítica, ou seja, todos os componentes da aplicação estão interconectados e executados juntos. </p>
 
-- Angular é a interface do usuário (frontend), onde o usuário interage com a aplicação.
-- Java é o servidor (backend), responsável por processar a lógica de negócios, manipular dados e fornecer respostas às requisições do cliente.
-- PostgreSQL é o banco de dados, onde as informações são armazenadas.
+<p align="center"> <img src="webpack/arquitetura.png" alt="Imagem | arquitetura"> </p>
 
 ![Imagem|arquitetura](webpack/arquitetura.png)
 
