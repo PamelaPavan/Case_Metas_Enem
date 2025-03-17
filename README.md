@@ -7,7 +7,6 @@
 ## 📌 Índice
 
 - [Objetivo](#objetivo)
-- [Vídeo](#vídeo)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura de pastas](#estrutura-de-pastas)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -19,9 +18,6 @@
 
 <p align="justify"> Criar uma aplicação completa do zero utilizando a ferramenta <strong>JHipster</strong> para o cadastro de metas dos alunos. Um aluno possui metas de notas nas 4 áreas do ENEM: linguagens, códigos e suas tecnologias; ciências humanas e suas tecnologias; ciências da natureza e suas tecnologias; e matemática e suas tecnologias. É necessário apenas o acesso de administrador (gerado automaticamente), e o próprio administrador cadastrar um aluno e, em seguida, cadastrar a meta de nota desse aluno. </p>
 
-## Vídeo
-
-[Acesse o link para ver o vídeo de demonstração: ](URL)
 
 ## Funcionalidades
 
